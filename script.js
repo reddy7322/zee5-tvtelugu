@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function openModal(channel) {
         modal.style.display = 'block';
-        modalIframe.src = `play.php?c=${encodeURIComponent(channel.channel_name)}`;
+        modalIframe.src = `api/play.php?c=${encodeURIComponent(channel.channel_name)}`;
     }
 
     span.onclick = function() {
