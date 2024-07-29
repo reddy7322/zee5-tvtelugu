@@ -1,0 +1,199 @@
+[
+  {
+    "channel_name": "Zee TV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv1/default/Zeetv1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee TV HD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/Zeetvhd1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "AndTV",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv1/default/Andtv1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "AndTV HD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/index.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Anmol",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/Zeeanmol1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Cinema",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/Zeecinema1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Cinema HD",
+    "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/Zeecinemahd1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "And Pictures",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/Andpictures1.m3u8",
+    "language": "English"
+  },
+  {
+    "channel_name": "And Pictures HD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/Andpictureshd1.m3u8",
+    "language": "English"
+  },
+  {
+    "channel_name": "Zee Bollywood",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Action",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Anmol Cinema",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee News",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
+    "catagory": "News",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews1/default/Zeenews1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Hindustan",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Hindustan.png",
+    "catagory": "News",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan1/default/Zeehindustan1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Business",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
+    "catagory": "Business",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness1/default/Zeebusiness1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Wion",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png",
+    "catagory": "Business",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Wion1/default/Wion1.m3u8",
+    "language": "English"
+  },
+  {
+    "channel_name": "Zing",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/Zing1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Salaam",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesalaam1/default/Zeesalaam1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Marathi",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi1/default/Zeemarathi1.m3u8",
+    "language": "Marathi"
+  },
+  {
+    "channel_name": "Zee Marathi HD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathihd1/default/Zeemarathihd1.m3u8",
+    "language": "Marathi"
+  },
+  {
+    "channel_name": "Zee Talkies",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies1/default/Zeetalkies1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Talkies HD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/Zeetalkieshd1.m3u8",
+    "language": "Hindi"
+  },
+  {
+    "channel_name": "Zee Bangla",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8",
+    "language": "Bangla"
+  },
+  {
+    "channel_name": "Zee Bangla HD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/Zeebanglahd1.m3u8",
+    "language": "Bangla"
+  },
+  {
+    "channel_name": "Zee Bangla Cinema",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglacinema1.m3u8",
+    "language": "Bangla"
+  },
+  {
+    "channel_name": "Zee Tamil",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil1/default/Zeetamil1.m3u8",
+    "language": "Tamil"
+  },
+  {
+    "channel_name": "Zee Cinemalu",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",
+    "catagory": "Movies",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/Zeecinemalu1.m3u8",
+    "language": "Telugu"
+  },
+  
+  {
+    "channel_name": "Zee Kannada",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png",
+    "catagory": "Entertinment",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada1/default/Zeekannada1.m3u8",
+    "language": "Kannada"
+  }
+]
